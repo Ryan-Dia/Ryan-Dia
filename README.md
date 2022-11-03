@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 # CheolWon
 
 ![CheolWon's github stats](https://github-readme-stats.vercel.app/api?username=Ryan-Dia&show_icons=true)
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Stack
+
 
 
 
