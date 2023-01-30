@@ -26,21 +26,8 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <br>
-
-  <br>
-</p>
-
-<h3 align="center">🛠 Learning Tech Stack 🛠</h3>
+<h3 align="center">🛠 Studying that I'm focusing on these days 🛠</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
 </p>
