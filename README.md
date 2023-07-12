@@ -1,7 +1,6 @@
 ### Hi  👋
 # CheolWon
 
-![CheolWon's github stats](https://github-readme-stats.vercel.app/api?username=Ryan-Dia&show_icons=true)
 
 [![Ryan-Dia's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Dia&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Ryan-Dia)
 
@@ -25,12 +24,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-<h3 align="center">🛠 Studying that I'm focusing on these days 🛠</h3>
-<p align="center">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-</p>
 
 
 
