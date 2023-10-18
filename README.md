@@ -20,7 +20,7 @@
 
 ![Static Badge](https://img.shields.io/badge/vscode--jest-%2399425A)
 
-
+[자세히](https://github.com/Ryan-Dia/Ryan-Dia/blob/main/contribute.md)
 
 
 <!--
