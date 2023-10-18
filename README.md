@@ -9,7 +9,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-![Static Badge](https://img.shields.io/badge/typescript--eslint-%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/typescript--eslint-%23384FBE)
 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
