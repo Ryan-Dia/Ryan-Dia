@@ -26,12 +26,7 @@
 
 
 
-## Study
-- 운영중
-  - [가맹점 1호](https://github.com/Gamangjum-lihou)
-  - [모던 자바스크립트 스터디 시즌 2](https://github.com/woowacourse-pre/Javascript-Deep-Dive-Study)
-  - [채움](https://github.com/chae-um)
-- 종료
+
   
 
 <!--
