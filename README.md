@@ -7,6 +7,10 @@
 
 ## Contribute
 
+![badge](https://img.shields.io/badge/springdoc_openapi-green)
+  - https://github.com/springdoc/springdoc-openapi/pull/2891#event-16234414286
+
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
   - https://github.com/eslint/eslint/pull/17435
 
