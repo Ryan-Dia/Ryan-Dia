@@ -27,7 +27,10 @@
   -  https://github.com/jest-community/vscode-jest/pull/1032
 
 
+## Service
 
+- [봄봄(뉴스레터 리딩 플랫폼) - MAU 2.3k/Total Users 1.7k (2026.08 기준)](www.bombom.news) - 프로젝트 리드
+  - 2025.08 ~ 현재 (1년)  
 
   
 
